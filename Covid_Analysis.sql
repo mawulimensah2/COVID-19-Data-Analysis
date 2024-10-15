@@ -1,9 +1,3 @@
-CREATE DATABASE Portfolio
-
-create table table1(
-name nvarchar(100),
-age int
-);
 
 select * from [dbo].[CovidDeaths]
 
